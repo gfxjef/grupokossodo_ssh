@@ -1,10 +1,6 @@
-import sys
+from app import create_app
 import os
 import logging
-
-# Agregar el directorio actual al path de Python para que pueda encontrar el módulo app
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from app import create_app
 
 # Configuración de logging
 logger = logging.getLogger(__name__)
