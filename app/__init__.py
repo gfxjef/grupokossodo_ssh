@@ -36,6 +36,10 @@ def create_app(config_name=None):
     from app.blueprints.bienestar import get_blueprint as get_bienestar_bp
     from app.blueprints.bienestar import get_api_blueprint as get_bienestar_api_bp  # Import new function
 
+    # Importa y aplica el middleware
+    from app.middleware import PrefixMiddleware
+    app.wsgi_app = PrefixMiddleware(app.wsgi_app)
+
     
     app.register_blueprint(get_login_bp(), url_prefix='/api')
     app.register_blueprint(get_welcome_bp(), url_prefix='/api')

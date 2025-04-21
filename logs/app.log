@@ -5745,3 +5745,47 @@
 2025-04-21 14:48:10,165 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2025-04-21 15:22:00,308 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jcamacho\\Desktop\\works\\Python Proyects\\grupokossodo_ssh\\grupokossodo ssh\\main.py', reloading
 2025-04-21 15:22:00,359 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:23:34,149 - app.blueprints.inventory.routes - INFO - Initializing inventory tables
+2025-04-21 15:23:34,803 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-04-21 15:23:34,804 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-04-21 15:23:34,805 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-04-21 15:23:35,152 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:35,622 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossodo created or verified successfully
+2025-04-21 15:23:36,557 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:37,026 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossomet created or verified successfully
+2025-04-21 15:23:37,952 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:38,415 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes created or verified successfully
+2025-04-21 15:23:39,337 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:39,820 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes_conf created or verified successfully
+2025-04-21 15:23:39,852 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.110.102:5001
+2025-04-21 15:23:39,852 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-21 15:23:39,855 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 15:23:40,301 - app.blueprints.inventory.routes - INFO - Initializing inventory tables
+2025-04-21 15:23:40,933 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-04-21 15:23:40,933 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-04-21 15:23:40,935 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-04-21 15:23:41,281 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:41,748 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossodo created or verified successfully
+2025-04-21 15:23:42,683 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:43,157 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossomet created or verified successfully
+2025-04-21 15:23:44,079 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:44,540 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes created or verified successfully
+2025-04-21 15:23:45,467 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 15:23:45,933 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes_conf created or verified successfully
+2025-04-21 15:23:45,953 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 15:23:45,962 - werkzeug - INFO -  * Debugger PIN: 952-111-509
+2025-04-21 15:23:48,321 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:23:48] "GET / HTTP/1.1" 200 -
+2025-04-21 15:23:48,349 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:23:48] "[33mGET /{{%20url_for('static',%20filename='css/unified-styles.css')%20}} HTTP/1.1[0m" 404 -
+2025-04-21 15:23:48,415 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:23:48] "GET /api/login HTTP/1.1" 200 -
+2025-04-21 15:23:48,501 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:23:48] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-21 15:23:48,543 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:23:48] "GET /static/js/login.js HTTP/1.1" 200 -
+2025-04-21 15:23:48,575 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2025 15:23:48] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 15:23:53,295 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 15:23:53] "GET / HTTP/1.1" 200 -
+2025-04-21 15:23:53,334 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 15:23:53] "[33mGET /{{%20url_for('static',%20filename='css/unified-styles.css')%20}} HTTP/1.1[0m" 404 -
+2025-04-21 15:23:53,383 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 15:23:53] "GET /api/login HTTP/1.1" 200 -
+2025-04-21 15:23:53,500 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 15:23:53] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-21 15:23:53,503 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 15:23:53] "GET /static/js/login.js HTTP/1.1" 200 -
+2025-04-21 15:23:53,613 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 15:23:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
