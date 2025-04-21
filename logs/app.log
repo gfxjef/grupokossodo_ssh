@@ -5661,3 +5661,6 @@
 2025-04-21 13:45:55,983 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 13:45:55] "GET /static/assets/js/permissions/menuAccess.js HTTP/1.1" 200 -
 2025-04-21 13:45:55,988 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 13:45:55] "GET /static/assets/components/sidebar/sidebar.html HTTP/1.1" 200 -
 2025-04-21 13:45:56,207 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 13:45:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 14:17:08,660 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jcamacho\\Desktop\\works\\Python Proyects\\grupokossodo_ssh\\grupokossodo ssh\\app.py', reloading
+2025-04-21 14:17:08,743 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 14:17:09,305 - app.blueprints.inventory.routes - INFO - Initializing inventory tables
