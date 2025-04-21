@@ -5701,3 +5701,45 @@
 2025-04-21 14:22:58,006 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
 2025-04-21 14:22:58,361 - app.database - INFO - Conexión exitosa a la BD
 2025-04-21 14:22:58,846 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossodo created or verified successfully
+2025-04-21 14:22:59,761 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:23:00,234 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossomet created or verified successfully
+2025-04-21 14:23:01,180 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:23:01,641 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes created or verified successfully
+2025-04-21 14:23:02,588 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:23:03,054 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes_conf created or verified successfully
+2025-04-21 14:23:03,075 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 14:23:03,085 - werkzeug - INFO -  * Debugger PIN: 952-111-509
+2025-04-21 14:47:54,286 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jcamacho\\Desktop\\works\\Python Proyects\\grupokossodo_ssh\\grupokossodo ssh\\app\\__init__.py', reloading
+2025-04-21 14:47:54,326 - werkzeug - INFO -  * Restarting with stat
+2025-04-21 14:47:54,756 - app.blueprints.inventory.routes - INFO - Initializing inventory tables
+2025-04-21 14:47:55,656 - mysql.connector - INFO - package: mysql.connector.plugins
+2025-04-21 14:47:55,657 - mysql.connector - INFO - plugin_name: mysql_native_password
+2025-04-21 14:47:55,659 - mysql.connector - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLNativePasswordAuthPlugin
+2025-04-21 14:47:56,007 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:47:56,481 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossodo created or verified successfully
+2025-04-21 14:47:57,426 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:47:57,900 - app.blueprints.inventory.utils - INFO - Table inventario_merch_kossomet created or verified successfully
+2025-04-21 14:47:58,838 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:47:59,298 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes created or verified successfully
+2025-04-21 14:48:00,235 - app.database - INFO - Conexión exitosa a la BD
+2025-04-21 14:48:00,711 - app.blueprints.inventory.utils - INFO - Table inventario_solicitudes_conf created or verified successfully
+2025-04-21 14:48:00,740 - werkzeug - WARNING -  * Debugger is active!
+2025-04-21 14:48:00,750 - werkzeug - INFO -  * Debugger PIN: 952-111-509
+2025-04-21 14:48:09,458 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /bienestar/manage-posts HTTP/1.1" 200 -
+2025-04-21 14:48:09,855 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/css/sidebar.css HTTP/1.1" 200 -
+2025-04-21 14:48:09,859 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/loadSidebar.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,863 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/logoutHandler.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,866 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/bienestar/app.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,870 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/bienestar/manage-posts.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,879 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-04-21 14:48:09,883 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/search.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,888 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/config.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,892 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/loadHeader.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,897 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/js/authCheck.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,905 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/components/header/header.html HTTP/1.1" 200 -
+2025-04-21 14:48:09,905 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /api/posts HTTP/1.1" 200 -
+2025-04-21 14:48:09,912 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/images/grupokossodo_logo.webp HTTP/1.1" 200 -
+2025-04-21 14:48:09,913 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/js/sidebar_improved.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,919 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/js/permissions/menuAccess.js HTTP/1.1" 200 -
+2025-04-21 14:48:09,925 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/components/sidebar/sidebar.html HTTP/1.1" 200 -
+2025-04-21 14:48:10,165 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
