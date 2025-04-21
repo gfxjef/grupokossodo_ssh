@@ -5743,3 +5743,5 @@
 2025-04-21 14:48:09,919 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/js/permissions/menuAccess.js HTTP/1.1" 200 -
 2025-04-21 14:48:09,925 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:09] "GET /static/assets/components/sidebar/sidebar.html HTTP/1.1" 200 -
 2025-04-21 14:48:10,165 - werkzeug - INFO - 192.168.110.102 - - [21/Apr/2025 14:48:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-21 15:22:00,308 - werkzeug - INFO -  * Detected change in 'C:\\Users\\jcamacho\\Desktop\\works\\Python Proyects\\grupokossodo_ssh\\grupokossodo ssh\\main.py', reloading
+2025-04-21 15:22:00,359 - werkzeug - INFO -  * Restarting with stat
