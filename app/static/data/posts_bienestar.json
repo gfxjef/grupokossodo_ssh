@@ -1,0 +1,137 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Taller de manejo del estrésooooooo",
+            "content": "<h2>Aprende a manejar el estrés laboral</h2><p>El estrés laboral es una realidad que afecta a muchos profesionales en la actualidad. En este taller, aprenderás técnicas efectivas para gestionar el estrés y mejorar tu bienestar.</p><h3>Temas que trataremos:</h3><ul><li>Identificación de factores estresantes</li><li>Técnicas de respiración y relajación</li><li>Gestión del tiempo</li><li>Establecimiento de límites saludables</li></ul><p>El taller será impartido por la Dra. Claudia Méndez, especialista en psicología laboral con más de 10 años de experiencia.</p><img src='https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=1000' alt='Meditación'/><p>No olvides traer ropa cómoda y una esterilla para los ejercicios prácticos.</p>",
+            "excerpt": "Aprende técnicas efectivas para manejar el estrés laboral y mejorar tu calidad de vida profesional en este taller práctico.",
+            "category": "bienestar",
+            "tags": [
+                "estrés",
+                "salud mental",
+                "talleres",
+                "bienestar"
+            ],
+            "status": "published",
+            "visibility": "public",
+            "created": "2023-06-15T10:30:00",
+            "updated": "2025-04-13T16:53:11.987208",
+            "author": "Equipo de Bienestar",
+            "coverImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=1000"
+        },
+        {
+            "id": "2",
+            "title": "Programa de nutrición saludable",
+            "content": "<h2>Alimentación saludable para profesionales</h2><p>¿Sabías que una buena alimentación puede mejorar significativamente tu rendimiento laboral? En este programa, te enseñaremos cómo incorporar hábitos alimenticios saludables en tu rutina diaria.</p><h3>Beneficios:</h3><ul><li>Mayor energía durante la jornada laboral</li><li>Mejor concentración</li><li>Reducción del estrés</li><li>Prevención de enfermedades</li></ul><p>El programa incluye asesoramiento personalizado con nuestra nutricionista Martha Torres y seguimiento durante 3 meses.</p><img src='https://images.unsplash.com/photo-1498837167922-ddd27525d352?q=80&w=1000' alt='Alimentación saludable'/><p>Las inscripciones están abiertas hasta el 30 de julio. ¡No pierdas esta oportunidad!</p>",
+            "excerpt": "Descubre cómo mejorar tu rendimiento profesional a través de una alimentación equilibrada y saludable con nuestro programa personalizado.",
+            "category": "bienestar",
+            "tags": [
+                "nutrición",
+                "salud",
+                "bienestar",
+                "alimentación"
+            ],
+            "status": "published",
+            "visibility": "public",
+            "created": "2023-06-18T11:45:00",
+            "updated": "2025-04-13T16:53:11.987236",
+            "author": "Dra. Martha Torres",
+            "coverImage": "https://images.unsplash.com/photo-1505576399279-565b52d4ac71?q=80&w=1000"
+        },
+        {
+            "id": "3",
+            "title": "Nuevas capacitaciones en desarrollo profesional",
+            "content": "<h2>Mejora tus habilidades profesionales</h2><p>Nos complace anunciar el lanzamiento de nuestro nuevo catálogo de capacitaciones para el segundo semestre del año. Estas formaciones están diseñadas para potenciar tus habilidades y favorecer tu crecimiento profesional dentro de la organización.</p><h3>Cursos disponibles:</h3><ul><li>Liderazgo efectivo en entornos cambiantes</li><li>Comunicación asertiva y negociación</li><li>Gestión del tiempo y productividad</li><li>Innovación y pensamiento creativo</li></ul><p>Todas las capacitaciones cuentan con certificación oficial y son impartidas por profesionales expertos en cada área.</p><img src='https://images.unsplash.com/photo-1524178232363-1fb2b075b655?q=80&w=1000' alt='Capacitación'/><p>Consulta con tu supervisor para obtener más información sobre el proceso de inscripción.</p>",
+            "excerpt": "Descubre las nuevas oportunidades de formación profesional disponibles para el próximo semestre y potencia tu carrera.",
+            "category": "desarrollo",
+            "tags": [
+                "capacitación",
+                "desarrollo profesional",
+                "habilidades",
+                "carrera"
+            ],
+            "status": "published",
+            "visibility": "public",
+            "created": "2023-06-25T09:15:00",
+            "updated": "2025-04-13T16:53:11.987263",
+            "author": "Departamento de Talento Humano",
+            "coverImage": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=1000"
+        },
+        {
+            "id": "4",
+            "title": "Resultados de la encuesta de clima laboral",
+            "content": "<h2>Agradecemos tu participación</h2><p>Queremos compartir con ustedes los resultados de la reciente encuesta de clima laboral realizada durante el mes de mayo. La participación fue del 87% del personal, lo que nos ha proporcionado una visión amplia y representativa.</p><h3>Principales hallazgos:</h3><ul><li>El 78% del personal reporta un alto nivel de satisfacción general</li><li>El 82% considera que tiene un buen equilibrio entre vida personal y laboral</li><li>Las áreas de mejora identificadas fueron: comunicación interna y espacios de colaboración</li></ul><p>Basados en estos resultados, estamos diseñando un plan de acción que implementaremos durante los próximos meses.</p><img src='https://images.unsplash.com/photo-1552581234-26160f608093?q=80&w=1000' alt='Equipo de trabajo'/><p>Agradecemos sinceramente tu honestidad y compromiso para seguir construyendo un mejor lugar para trabajar.</p>",
+            "excerpt": "Conoce los resultados de nuestra reciente encuesta de clima laboral y las acciones que implementaremos para seguir mejorando.",
+            "category": "noticias",
+            "tags": [
+                "clima laboral",
+                "encuestas",
+                "mejora continua",
+                "feedback"
+            ],
+            "status": "published",
+            "visibility": "public",
+            "created": "2023-06-28T14:00:00",
+            "updated": "2025-04-13T16:53:11.987290",
+            "author": "Gerencia de Recursos Humanos",
+            "coverImage": "https://images.unsplash.com/photo-1573497491765-dccce02b29df?q=80&w=1000"
+        },
+        {
+            "id": "5",
+            "title": "Actividades para el Día de la Integración",
+            "content": "<h2>Prepárate para un día lleno de diversión</h2><p>Con motivo del Día de la Integración que celebraremos el próximo 15 de agosto, hemos preparado una serie de actividades diseñadas para fortalecer los lazos entre todos los miembros de nuestra organización.</p><h3>Programa de actividades:</h3><ul><li>09:00 - Bienvenida y desayuno</li><li>10:00 - Dinámica de integración por equipos</li><li>12:00 - Almuerzo compartido</li><li>14:00 - Actividades deportivas y recreativas</li><li>16:00 - Cierre y premiación</li></ul><p>El evento se realizará en el Club Campestre Las Palmas. Se proporcionará transporte desde la oficina principal.</p><img src='https://images.unsplash.com/photo-1528605105345-5344ea20e269?q=80&w=1000' alt='Actividades de integración'/><p>Confirma tu asistencia antes del 5 de agosto. ¡Te esperamos para compartir un día inolvidable!</p>",
+            "excerpt": "Conoce todas las actividades programadas para el Día de la Integración y prepárate para fortalecer lazos con tus compañeros de trabajo.",
+            "category": "actividades",
+            "tags": [
+                "integración",
+                "eventos",
+                "recreación",
+                "trabajo en equipo"
+            ],
+            "status": "published",
+            "visibility": "public",
+            "created": "2023-07-01T10:00:00",
+            "updated": "2025-04-13T16:53:13.553830",
+            "author": "Comité de Bienestar",
+            "coverImage": "https://images.unsplash.com/photo-1539635278303-d4002c07eae3?q=80&w=1000"
+        },
+        {
+            "id": "6",
+            "title": "Próximo lanzamiento: Programa de reconocimiento",
+            "content": "<h2>Celebrando el talento y dedicación de nuestro equipo</h2><p>Estamos emocionados de anunciar el próximo lanzamiento de nuestro nuevo Programa de Reconocimiento, diseñado para valorar y celebrar las contribuciones excepcionales de nuestros colaboradores.</p><h3>Categorías de reconocimiento:</h3><ul><li>Innovación y mejora continua</li><li>Excelencia en servicio al cliente</li><li>Colaboración y trabajo en equipo</li><li>Compromiso con los valores organizacionales</li><li>Trayectoria y desarrollo profesional</li></ul><p>El programa incorpora un sistema de nominación transparente donde todos pueden participar reconociendo el trabajo de sus compañeros.</p><img src='https://images.unsplash.com/photo-1551836022-aadb801c60e0?q=80&w=1000' alt='Reconocimiento'/><p>La presentación oficial será el próximo mes. Mantente atento a más información sobre cómo participar.</p>",
+            "excerpt": "Conoce en primicia nuestro nuevo Programa de Reconocimiento que pronto lanzaremos para celebrar el talento y la dedicación de nuestro equipo.",
+            "category": "noticias",
+            "tags": [
+                "reconocimiento",
+                "talento",
+                "motivación",
+                "desarrollo"
+            ],
+            "status": "draft",
+            "visibility": "sede",
+            "created": "2023-07-05T16:20:00",
+            "updated": "2025-04-13T16:53:11.987344",
+            "author": "Dirección de Talento Humano",
+            "coverImage": "https://images.unsplash.com/photo-1447684808650-354ae64db5b8?q=80&w=1000"
+        },
+        {
+            "id": "7",
+            "title": "Curso de mindfulness para equipos directivos",
+            "content": "<h2>Potencia tu liderazgo a través del mindfulness</h2><p>Dirigido exclusivamente a nuestro equipo directivo, este curso intensivo está diseñado para desarrollar habilidades de liderazgo consciente a través de prácticas de mindfulness.</p><h3>Objetivos del curso:</h3><ul><li>Mejorar la toma de decisiones bajo presión</li><li>Desarrollar una mayor claridad mental</li><li>Fortalecer la capacidad de escucha activa</li><li>Cultivar la resiliencia ante situaciones desafiantes</li></ul><p>El curso será impartido por el Dr. Roberto Vega, especialista en mindfulness aplicado al entorno empresarial con más de 15 años de experiencia.</p><img src='https://images.unsplash.com/photo-1497032628192-86f99bcd76bc?q=80&w=1000' alt='Mindfulness'/><p>Se realizará durante cuatro sesiones de tres horas cada una, los días viernes del mes de agosto.</p>",
+            "excerpt": "Curso exclusivo para directivos sobre cómo aplicar técnicas de mindfulness para mejorar el liderazgo y la toma de decisiones.",
+            "category": "desarrollo",
+            "tags": [
+                "mindfulness",
+                "liderazgo",
+                "desarrollo directivo",
+                "habilidades blandas"
+            ],
+            "status": "draft",
+            "visibility": "grupo",
+            "created": "2023-07-08T11:30:00",
+            "updated": "2025-04-13T16:53:11.987373",
+            "author": "Departamento de Formación",
+            "coverImage": "https://images.unsplash.com/photo-1545989253-02cc26577f88?q=80&w=1000"
+        }
+    ]
+}
